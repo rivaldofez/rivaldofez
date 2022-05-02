@@ -1,42 +1,38 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="images/intro.png" height="175px"/></a>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rivaldo</h1>
-<h3 align="center">I'm a passionate Mobile Application Development from Indonesia.</h3>
+<h1 align="center">Hello <img src="images/hello.gif" width="30px">, I'm Rivaldo</h1>
+<h3 align="center">I'm a passionate in Mobile Application Development.</h3>
+</br>
 
 
-## 🙋‍♂️ About Me
+## 🧐 About Me
 
-- 🔭 I’m currently working as Artificial Intelligence Coach at **[Orbit Future Academy](https://orbitfutureacademy.id/)**
+- 👨🏻‍💻 I’m currently working as Artificial Intelligence Coach at **[Orbit Future Academy](https://orbitfutureacademy.id/)**
   
-- 🔭 And presently i'm also one of the Learner at **[Apple Developer Academy @Infinite Learning Batam, Indonesia](https://www.developeracademy.infinitelearning.id/)**
+- 👨🏼‍🔬 And presently i'm also one of the Learner at **[Apple Developer Academy @Infinite Learning Batam, Indonesia](https://www.developeracademy.infinitelearning.id/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🧮 I’m currently learning **Swift and Dart**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 📫 You can reach me at **rivaldofez@gmail.com** or my **[Linkedin](https://www.linkedin.com/in/rivaldofez/)**
 
-- 📫 How to reach me **rivaldofez@gmail.com**
-
-- ⚡ Fun fact **I cook pastry or desert and go to the GYM sometimes.**
+- 🤪 Fun fact **I cook pastry or desert and go to the GYM sometimes.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="images/kotlin.png" height="40px" /></a>
+    <a href="https://developer.android.com/studio" target="_blank"> <img src="images/android_studio.png" height="40px"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="images/python.webp" height="40px"/> </a> 
+    <a href="https://www.swift.com/" target="_blank"> <img src="images/swift.png" height="40px"/> </a> 
+    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="images/xcode.png" height="40px"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" height="40px"/> </a> 
+    <a href="https://www.postman.com/" target="_blank"> <img src="images/postman.png" height="40px"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" height="40px"/> </a> 
+    <a href="https://flutter.dev/" target="_blank"> <img src="images/flutter.png" height="40px"/> </a> 
+    <a href="https://dart.dev/" target="_blank"> <img src="images/dart.png" alt="postman" height="40px"/> </a>   
+    <a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" height="40px"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="images/javascript.png" height="40px"/> </a> 
+    <a href="https://reactnative.dev/" target="_blank"> <img src="images/react_native.png" height="40px" /> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 

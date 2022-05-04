@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="images/intro.png" height="175px"/></a>
 
 <h1 align="center">Hello <img src="images/hello.gif" width="30px">, I'm Rivaldo</h1>
-<h3 align="center">I'm a passionate in Mobile Application Development.</h3>
+<h3 align="center">I'm passionate in Mobile Application Development.</h3>
 </br>
 
 

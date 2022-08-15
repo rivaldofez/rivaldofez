@@ -13,7 +13,7 @@
 
 - 🧮 I’m currently learning **Swift and Dart**
 
-- 📫 You can reach me at **rivaldofez@gmail.com** or my **[Linkedin](https://www.linkedin.com/in/rivaldofez/)**
+- 📫 You can reach me at **rivaldofez@gmail.com** | rivaldofez@engineer.com or my **[Linkedin](https://www.linkedin.com/in/rivaldofez/)**
 
 - 🤪 Fun fact **I cook pastry or desert and go to the GYM sometimes.**
 

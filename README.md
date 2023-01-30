@@ -15,7 +15,7 @@
 
 - 📫 You can reach me at **rivaldofez@gmail.com** | rivaldofez@engineer.com or my **[Linkedin](https://www.linkedin.com/in/rivaldofez/)**
 
-- 🤪 Fun fact **I cook pastry or desert and go to the GYM sometimes.**
+- 🤪 Fun fact **I like baking and doing homeworkout.**
 
 ## 🚀 Languages and Tools:
 

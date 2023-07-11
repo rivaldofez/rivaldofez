@@ -9,9 +9,9 @@
 
 - 👨🏻‍💻 I’m currently working as Artificial Intelligence Coach at **[Orbit Future Academy](https://orbitfutureacademy.id/)**
   
-- 👨🏼‍🔬 And presently i'm also one of the Learner at **[Apple Developer Academy @Infinite Learning Batam, Indonesia](https://www.developeracademy.infinitelearning.id/)**
+- 👨🏼‍🔬 I'm graduate of **[Apple Developer Academy @Infinite Learning Batam, Indonesia](https://www.developeracademy.infinitelearning.id/)**
 
-- 🧮 I’m currently learning **Swift and Dart**
+- 🧮 My specialization are **iOS Development** and **Android Development**, but currently learning **Flutter** and **React Native**
 
 - 📫 You can reach me at **rivaldofez@gmail.com** | rivaldofez@engineer.com or my **[Linkedin](https://www.linkedin.com/in/rivaldofez/)**
 
@@ -39,6 +39,9 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+## My Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rivaldofez)
+
 ## Connect with me:
 <p align="left">
 
@@ -53,3 +56,4 @@
     <img src="https://komarev.com/ghpvc/?username=rivaldofez">
 </a>
 <a href="https://github.com/rivaldofez?tab=followers"><img src="https://img.shields.io/github/followers/rivaldofez?label=Followers&style=social" alt="GitHub Badge"></a>
+

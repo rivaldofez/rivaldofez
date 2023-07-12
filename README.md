@@ -52,7 +52,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/rivaldofez/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rivaldofez">
 </a>
 <a href="https://github.com/rivaldofez?tab=followers"><img src="https://img.shields.io/github/followers/rivaldofez?label=Followers&style=social" alt="GitHub Badge"></a>

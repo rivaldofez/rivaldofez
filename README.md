@@ -7,11 +7,11 @@
 
 ## 🧐 About Me
 
-- 👨🏻‍💻 I’m currently working as Artificial Intelligence Coach at **[Orbit Future Academy](https://orbitfutureacademy.id/)**
+- 👨🏻‍💻 I’m currently working as Tech Mentor at **[Orbit Future Academy](https://orbitfutureacademy.id/)**
   
 - 👨🏼‍🔬 I'm graduate of **[Apple Developer Academy @Infinite Learning Batam, Indonesia](https://www.developeracademy.infinitelearning.id/)**
 
-- 🧮 My specialization are **iOS Development** and **Android Development**, but currently learning **Flutter** and **React Native**
+- 🧮 My specialization are Native **iOS Development** ❤️ and **Android Development**
 
 - 📫 You can reach me at **rivaldofez@gmail.com** | rivaldofez@engineer.com or my **[Linkedin](https://www.linkedin.com/in/rivaldofez/)**
 
@@ -20,11 +20,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://www.swift.com/" target="_blank"> <img src="images/swift.png" height="40px"/> </a> 
+    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="images/xcode.png" height="40px"/> </a> 
     <a href="https://kotlinlang.org/" target="_blank"> <img src="images/kotlin.png" height="40px" /></a>
     <a href="https://developer.android.com/studio" target="_blank"> <img src="images/android_studio.png" height="40px"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="images/python.webp" height="40px"/> </a> 
-    <a href="https://www.swift.com/" target="_blank"> <img src="images/swift.png" height="40px"/> </a> 
-    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="images/xcode.png" height="40px"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" height="40px"/> </a> 
     <a href="https://www.postman.com/" target="_blank"> <img src="images/postman.png" height="40px"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" height="40px"/> </a> 
@@ -41,6 +41,11 @@
 
 ## My Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rivaldofez)
+
+## Github Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rivaldofez&show_icons=true&count_private=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldofez&layout=compact&count_private=true&theme=github_dark&hide=html,css,scss&langs_count=8" />
 
 ## Connect with me:
 <p align="left">

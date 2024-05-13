@@ -7,7 +7,7 @@
 
 ## 🧐 About Me
 
-- 👨🏻‍💻 I’m currently working as Tech Mentor at **[Orbit Future Academy](https://orbitfutureacademy.id/)**
+- 👨🏻‍💻 I’m currently working as iOS Developer at **[PT Bank Syariah Indonesia](https://www.bankbsi.co.id/)**
   
 - 👨🏼‍🔬 I'm graduate of **[Apple Developer Academy @Infinite Learning Batam, Indonesia](https://www.developeracademy.infinitelearning.id/)**
 
